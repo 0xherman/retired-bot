@@ -1,0 +1,16 @@
+{
+  "name": "retired-bot",
+  "version": "1.0.0",
+  "description": "Retired bot messages to point to new bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "0xherman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
